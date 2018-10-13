@@ -5,7 +5,7 @@ LIRI is similar to SIRI, but is a Language Interpretation and Recognition Interf
 LIRI responds to the following commands:
 * `concert-this`
 
-https://github.com/nicolep1056/liri-node-app/issues/1#issue-369804853
+![](images/concert-this.png)
 
 * `spotify-this-song`
 
