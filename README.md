@@ -5,13 +5,23 @@ LIRI is similar to SIRI, but is a Language Interpretation and Recognition Interf
 LIRI responds to the following commands:
 * `concert-this`
 
-https://github.com/nicolep1056/liri-node-app/issues/1#issue-369804853
+![](images/concert-this.png)
 
 * `spotify-this-song`
+if no song is specified, it will pull up info for "The Sign" by Ace of Base
+
+![](images/spotify-this-song.png)
 
 * `movie-this`
+if no movie is specified, it will pull up info for Mr. Nobody
+
+![](images/movie-this.png)
 
 * `do-what-it-says`
+this pulls a command from a random.txt file
+
+![](images/do-what-it-says.png)
+
 
 Technologies used:
 * Node.js
